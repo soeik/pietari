@@ -1,14 +1,14 @@
 {
-  "name": "functional",
+  "name": "functional-helpers",
   "version": "0.0.1",
   "description": "Tiny library for functional programming in JS",
-  "main": "fp.js",
+  "main": "./src/fph.js",
   "scripts": {
     "test": "mocha --compilers js:@babel/register",
     "esdoc": "esdoc"
   },
   "author": "Kirill Stepanov",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.2.2",
