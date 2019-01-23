@@ -1,0 +1,1225 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/fph.js",
+    "content": "\r\n/**\r\n * Currying refers to the process of transforming a function \r\n * with multiple arity into the same function with less arity. \r\n * @param {*} f \r\n * @param  {...any} xs \r\n */\r\nexport const curry = (f, ...xs) =>\r\n  xs.length >= f.length ? f(...xs) : (...moreXs) => curry(f, ...xs, ...moreXs)\r\n\r\n/**\r\n * Runs the given function with the supplied object, \r\n * then returns the object.\r\n */\r\nexport const tap = curry((fn, x) => {\r\n  fn(x)\r\n  return x\r\n})\r\n\r\n/**\r\n * Curried pointfree wrapper for functor methods.\r\n*/\r\nexport const pf = (arity, method) =>\r\n  function pointfree(...xs) {\r\n    return [...xs].length >= arity + 1\r\n      ? xs[arity][method](...xs.slice(0, arity))\r\n      : (...moreXs) => pointfree(...xs, ...moreXs)\r\n  }\r\n\r\n/**\r\n * Performs left-to-right function composition. \r\n * The leftmost function may have any arity; \r\n * the remaining functions must be unary.\r\n * @param  {...any} fs\r\n */\r\nexport const pipe = (...fs) => fs.reduceRight((f, g) => (...xs) => f(g(...xs)))\r\n\r\n/**\r\n * Performs right-to-left function composition. \r\n * The rightmost function may have any arity; \r\n * the remaining functions must be unary.\r\n * @param  {...any} fs\r\n */\r\nexport const compose = (...fs) => fs.reduce((f, g) => (...xs) => f(g(...xs)))\r\n\r\n/**\r\n * Takes predicate, fn and argument\r\n * Returns result of fn(arg) if pred(arg) evaluates to true\r\n * Returns arg otherwise\r\n */\r\nexport const doif = curry((pred, fn, arg) => pred(arg) && fn(arg) || arg)\r\n\r\n/**\r\n * Pointfree wrapper for map method\r\n */\r\nexport const map = pf(1, \"map\")\r\n\r\n/**\r\n * Pointfree wrapper for forEach method\r\n */\r\nexport const forEach = pf(1, \"forEach\")\r\n\r\n/**\r\n * Pointfree wrapper for reduce method\r\n */\r\nexport const reduce = pf(2, \"reduce\")\r\n\r\n/**\r\n * Pointfree wrapper for filter method\r\n */\r\nexport const filter = pf(1, \"filter\")\r\n\r\n/**\r\n * Pointfree wrapper for find method\r\n */\r\nexport const find = pf(1, \"find\")\r\n\r\n/**\r\n * Pointfree wrapper for some method\r\n */\r\nexport const some = pf(1, \"some\")\r\n\r\n/**\r\n * Pointfree wrapper for every method\r\n */\r\nexport const every = pf(1, \"every\")\r\n\r\n/**\r\n * Returns a partial copy of an object containing only the keys specified.\r\n * If the key does not exist, the property is ignored.\r\n */\r\nexport const pick = curry((whitelist, obj) =>\r\n  Object.entries(obj)\r\n    .filter(([key]) => whitelist.includes(key))\r\n    .reduce((obj, [key, val]) => Object.assign(obj, { [key]: val }), {})\r\n)\r\n\r\n/**\r\n * Returns a partial copy of an object omitting the keys specified.\r\n */\r\nexport const omit = curry((blacklisted, obj) =>\r\n  Object.entries(obj)\r\n    .filter(([key]) => !blacklisted.includes(key))\r\n    .reduce((obj, [key, val]) => Object.assign(obj, { [key]: val }), {})\r\n)\r\n\r\n/**\r\n * Reverse a string or an array\r\n * @param {*} list - string or an array\r\n */\r\nexport const reverse = list => {\r\n\r\n  if (!(typeof list === \"string\" || Array.isArray(list))) {\r\n    throw new Error(\"Invalid argument.\")\r\n  }\r\n\r\n  return typeof list === \"string\"\r\n    ? list\r\n      .split(\"\")\r\n      .reverse()\r\n      .join(\"\")\r\n    : Array.prototype.slice.call(list, 0).reverse()\r\n}\r\n\r\n/**\r\n * Returns a new list by pulling every item out of it \r\n * and putting them in a new array.\r\n * Won't wirk for nesting deeper than two levels\r\n * @param {array} arr \r\n */\r\nexport const flatten = arr => [].concat.apply([], arr)\r\n\r\n/**\r\n * Check if an array is empty\r\n * @param {array} array \r\n */\r\nexport const isEmpty = array => Array.isArray(array) && array.length === 0\r\n\r\n/**\r\n * Iterate over an input object, calling a provided function fn for each property\r\n */\r\nexport const forIn = curry((fn, obj) =>\r\n  Object.keys(obj).forEach(key => fn(obj[key], key))\r\n)\r\n\r\n/**\r\n * Takes a function and a object, applies the function to each of the object's values, \r\n * and returns an object of the same shape\r\n */\r\nexport const mapIn = curry((fn, obj) =>\r\n  Object.keys(obj).reduce((newObj, key) => {\r\n    newObj[key] = fn(obj[key])\r\n    return newObj\r\n  }, {})\r\n)\r\n\r\n/**\r\n * Takes an object and list of properties and returns an array of their values\r\n */\r\nexport const props = curry((propsList, obj) =>\r\n  Object.entries(obj)\r\n    .filter(([key]) => propsList.includes(key))\r\n    .reduce((arr, [key, val]) => arr.concat(val), [])\r\n)\r\n\r\n/**\r\n * Returns opposite value of boolean\r\n * @param {boolean} a \r\n */\r\nexport const not = a => !a\r\n\r\n/**\r\n * Checks if two values are equal\r\n */\r\nexport const equals = curry((a, b) => {\r\n  // Equals implementation from ramda\r\n  // SameValue algorithm\r\n  return a === b\r\n    ? // Steps 1-5, 7-10\r\n    // Steps 6.b-6.e: +0 != -0\r\n    a !== 0 || 1 / a === 1 / b\r\n    : // Step 6.a: NaN == NaN\r\n    a !== a && b !== b\r\n})\r\n\r\n/**\r\n * Returns propertyvalue of an object\r\n */\r\nexport const prop = curry((prop, obj) => obj[prop])\r\n\r\n/**\r\n * Compares property value with provided value\r\n */\r\nexport const propEq = curry((name, val, obj) => equals(val, obj[name]))\r\n\r\n/**\r\n * Pointfree wrapper for Promise.then\r\n */\r\nexport const then = curry((onThen, promise) => promise.then(onThen))\r\n\r\n/**\r\n * Pointfree wrapper for Promise.catch\r\n */\r\nexport const catchError = curry((onCatch, promise) => promise.catch(onCatch))\r\n\r\n/**\r\n * Pointfree wrapper for Promise.then with error handling\r\n */\r\nexport const thenCatch = curry((onThen, onError, promise) =>\r\n  promise.then(onThen, onError)\r\n)\r\n\r\nexport default {\r\n  catchError,\r\n  curry,\r\n  compose,\r\n  doif,\r\n  every,\r\n  equals,\r\n  filter,\r\n  forEach,\r\n  forIn,\r\n  find,\r\n  flatten,\r\n  isEmpty,\r\n  map,\r\n  mapIn,\r\n  not,\r\n  omit,\r\n  pf,\r\n  pick,\r\n  pipe,\r\n  prop,\r\n  props,\r\n  propEq,\r\n  reduce,\r\n  reverse,\r\n  some,\r\n  then,\r\n  thenCatch,\r\n  tap\r\n}\r\n\r\n",
+    "static": true,
+    "longname": "C:/projects/functional/src/fph.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "curry",
+    "memberof": "src/fph.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fph.js~curry",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{curry}",
+    "description": "Currying refers to the process of transforming a function \nwith multiple arity into the same function with less arity. ",
+    "lineNumber": 8,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "f",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "...any"
+        ],
+        "spread": true,
+        "optional": false,
+        "name": "xs",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 50,
+    "kind": "variable",
+    "name": "tap",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~tap",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{tap}",
+    "description": "Runs the given function with the supplied object, \nthen returns the object.",
+    "lineNumber": 15,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "pf",
+    "memberof": "src/fph.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fph.js~pf",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{pf}",
+    "description": "Curried pointfree wrapper for functor methods.",
+    "lineNumber": 23,
+    "params": [
+      {
+        "name": "arity",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "method",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "pipe",
+    "memberof": "src/fph.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fph.js~pipe",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{pipe}",
+    "description": "Performs left-to-right function composition. \nThe leftmost function may have any arity; \nthe remaining functions must be unary.",
+    "lineNumber": 36,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "...any"
+        ],
+        "spread": true,
+        "optional": false,
+        "name": "fs",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "compose",
+    "memberof": "src/fph.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fph.js~compose",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{compose}",
+    "description": "Performs right-to-left function composition. \nThe rightmost function may have any arity; \nthe remaining functions must be unary.",
+    "lineNumber": 44,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "...any"
+        ],
+        "spread": true,
+        "optional": false,
+        "name": "fs",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 54,
+    "kind": "variable",
+    "name": "doif",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~doif",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{doif}",
+    "description": "Takes predicate, fn and argument\nReturns result of fn(arg) if pred(arg) evaluates to true\nReturns arg otherwise",
+    "lineNumber": 51,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "variable",
+    "name": "map",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~map",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{map}",
+    "description": "Pointfree wrapper for map method",
+    "lineNumber": 56,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 56,
+    "kind": "variable",
+    "name": "forEach",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~forEach",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{forEach}",
+    "description": "Pointfree wrapper for forEach method",
+    "lineNumber": 61,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "variable",
+    "name": "reduce",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~reduce",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{reduce}",
+    "description": "Pointfree wrapper for reduce method",
+    "lineNumber": 66,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "variable",
+    "name": "filter",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~filter",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{filter}",
+    "description": "Pointfree wrapper for filter method",
+    "lineNumber": 71,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "variable",
+    "name": "find",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~find",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{find}",
+    "description": "Pointfree wrapper for find method",
+    "lineNumber": 76,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "variable",
+    "name": "some",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~some",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{some}",
+    "description": "Pointfree wrapper for some method",
+    "lineNumber": 81,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "variable",
+    "name": "every",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~every",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{every}",
+    "description": "Pointfree wrapper for every method",
+    "lineNumber": 86,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "variable",
+    "name": "pick",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~pick",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{pick}",
+    "description": "Returns a partial copy of an object containing only the keys specified.\nIf the key does not exist, the property is ignored.",
+    "lineNumber": 92,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 63,
+    "kind": "variable",
+    "name": "omit",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~omit",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{omit}",
+    "description": "Returns a partial copy of an object omitting the keys specified.",
+    "lineNumber": 101,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "reverse",
+    "memberof": "src/fph.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fph.js~reverse",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{reverse}",
+    "description": "Reverse a string or an array",
+    "lineNumber": 111,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "list",
+        "description": "string or an array"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 65,
+    "kind": "function",
+    "name": "flatten",
+    "memberof": "src/fph.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fph.js~flatten",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{flatten}",
+    "description": "Returns a new list by pulling every item out of it \nand putting them in a new array.\nWon't wirk for nesting deeper than two levels",
+    "lineNumber": 131,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "arr",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 66,
+    "kind": "function",
+    "name": "isEmpty",
+    "memberof": "src/fph.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fph.js~isEmpty",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{isEmpty}",
+    "description": "Check if an array is empty",
+    "lineNumber": 137,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "array",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 67,
+    "kind": "variable",
+    "name": "forIn",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~forIn",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{forIn}",
+    "description": "Iterate over an input object, calling a provided function fn for each property",
+    "lineNumber": 142,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "variable",
+    "name": "mapIn",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~mapIn",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{mapIn}",
+    "description": "Takes a function and a object, applies the function to each of the object's values, \nand returns an object of the same shape",
+    "lineNumber": 150,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "variable",
+    "name": "props",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~props",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{props}",
+    "description": "Takes an object and list of properties and returns an array of their values",
+    "lineNumber": 160,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "function",
+    "name": "not",
+    "memberof": "src/fph.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/fph.js~not",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{not}",
+    "description": "Returns opposite value of boolean",
+    "lineNumber": 170,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "boolean"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "a",
+        "description": ""
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 71,
+    "kind": "variable",
+    "name": "equals",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~equals",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{equals}",
+    "description": "Checks if two values are equal",
+    "lineNumber": 175,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "variable",
+    "name": "prop",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~prop",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{prop}",
+    "description": "Returns propertyvalue of an object",
+    "lineNumber": 189,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "variable",
+    "name": "propEq",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~propEq",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{propEq}",
+    "description": "Compares property value with provided value",
+    "lineNumber": 194,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "variable",
+    "name": "then",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~then",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{then}",
+    "description": "Pointfree wrapper for Promise.then",
+    "lineNumber": 199,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "variable",
+    "name": "catchError",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~catchError",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{catchError}",
+    "description": "Pointfree wrapper for Promise.catch",
+    "lineNumber": 204,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 76,
+    "kind": "variable",
+    "name": "thenCatch",
+    "memberof": "src/fph.js",
+    "static": true,
+    "longname": "src/fph.js~thenCatch",
+    "access": "public",
+    "export": true,
+    "importPath": "functional/src/fph.js",
+    "importStyle": "{thenCatch}",
+    "description": "Pointfree wrapper for Promise.then with error handling",
+    "lineNumber": 209,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "# Functional Helpers\r\nTiny library with set of useful functions, inspired by Ramda and some other functional libraries\r\n\r\n## Disclaimer\r\nThis library was created for personal use and for learning purposes. Use it on your own risk.\r\n",
+    "longname": "C:\\projects\\functional\\README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"functional\",\n  \"version\": \"0.0.1\",\n  \"description\": \"Tiny library for functional programming in JS\",\n  \"main\": \"fp.js\",\n  \"scripts\": {\n    \"test\": \"mocha --compilers js:@babel/register\",\n    \"esdoc\": \"esdoc\"\n  },\n  \"author\": \"Kirill Stepanov\",\n  \"license\": \"ISC\",\n  \"devDependencies\": {\n    \"@babel/cli\": \"^7.2.3\",\n    \"@babel/core\": \"^7.2.2\",\n    \"@babel/preset-env\": \"^7.3.1\",\n    \"@babel/register\": \"^7.0.0\",\n    \"chai\": \"^4.2.0\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"mocha\": \"^5.2.0\"\n  },\n  \"esdoc\": {\n    \"source\": \"./src\",\n    \"destination\": \"./docs\",\n    \"plugins\": [\n      {\n        \"name\": \"esdoc-standard-plugin\"\n      }\n    ]\n  }\n}",
+    "longname": "C:\\projects\\functional\\package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

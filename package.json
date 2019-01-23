@@ -1,0 +1,31 @@
+{
+  "name": "functional",
+  "version": "0.0.1",
+  "description": "Tiny library for functional programming in JS",
+  "main": "fp.js",
+  "scripts": {
+    "test": "mocha --compilers js:@babel/register",
+    "esdoc": "esdoc"
+  },
+  "author": "Kirill Stepanov",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/register": "^7.0.0",
+    "chai": "^4.2.0",
+    "esdoc": "^1.1.0",
+    "esdoc-standard-plugin": "^1.0.0",
+    "mocha": "^5.2.0"
+  },
+  "esdoc": {
+    "source": "./src",
+    "destination": "./docs",
+    "plugins": [
+      {
+        "name": "esdoc-standard-plugin"
+      }
+    ]
+  }
+}
