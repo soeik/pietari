@@ -5,7 +5,8 @@
   "main": "./src/fph.js",
   "scripts": {
     "test": "mocha --compilers js:@babel/register",
-    "esdoc": "esdoc"
+    "esdoc": "esdoc",
+    "build": "babel  ./src/pietari.js --out-file ./index.js"
   },
   "author": "Kirill Stepanov",
   "license": "MIT",
