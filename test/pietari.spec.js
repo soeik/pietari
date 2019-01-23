@@ -18,7 +18,7 @@ import {
   equals,
   prop,
   propEq
-} from "../src/fph"
+} from "../src/pietari"
 
 describe("Functional", function () {
 
