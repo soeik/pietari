@@ -8,7 +8,7 @@ Designed to provide essential functional primitives with zero dependencies and a
 In many projects, pulling in a massive library for a few monadic or utility functions is overkill. `pietari` aims to be the "Swiss Army Knife" for functional programmers:
 - **Lightweight:** Minimal footprint with high utility.
 - **Functional First:** Built with composition, currying, and immutability in mind.
-- **Type-Safe:** First-class support for TypeScript.
+
 
 ### Key Influences
 - **Folktale:** For the focus on robust error handling and monadic structures.
