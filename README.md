@@ -17,6 +17,7 @@ In many projects, pulling in a massive library for a few monadic or utility func
 ### Installation
 ```bash
 npm install pietari
+```
 
 ## Usage
 
@@ -36,4 +37,5 @@ const userName = maybe.fromNullable(user)
   .getOrElse('Anonymous');
 
 console.log(userName); // 'Kirill'
+```
 
