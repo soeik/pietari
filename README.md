@@ -19,11 +19,11 @@ In many projects, pulling in a massive library for a few monadic or utility func
 npm install pietari
 ```
 
-## Usage
+### Usage
 
 `pietari` provides a clean, declarative way to handle data flow and optionality without the boilerplate of traditional imperative logic.
 
-### 🧩 Handling Optionality with `Maybe`
+#### 🧩 Handling Optionality with `Maybe`
 Avoid `null` checks and "undefined is not a function" errors.
 
 ```javascript
