@@ -18,24 +18,3 @@ In many projects, pulling in a massive library for a few monadic or utility func
 ```bash
 npm install pietari
 ```
-
-### Usage
-
-`pietari` provides a clean, declarative way to handle data flow and optionality without the boilerplate of traditional imperative logic.
-
-#### 🧩 Handling Optionality with `Maybe`
-Avoid `null` checks and "undefined is not a function" errors.
-
-```javascript
-import { maybe } from 'pietari';
-
-const user = { id: 1, profile: { name: 'Kirill' } };
-
-const userName = maybe.fromNullable(user)
-  .map(u => u.profile)
-  .map(p => p.name)
-  .getOrElse('Anonymous');
-
-console.log(userName); // 'Kirill'
-```
-
